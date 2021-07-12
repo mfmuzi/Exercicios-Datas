@@ -1,0 +1,8 @@
+Exercicio1.java
+ Exercicio1
+Exercicio3.java
+ Exercicio3
+Exercicio4.java
+ Exercicio4
+Exercicio2.java
+ Exercicio2
